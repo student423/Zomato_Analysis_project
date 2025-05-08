@@ -13,3 +13,4 @@ zomato maximum records and transaction are from india after that usa and uk
 #6.when rating is zero ------> not rating
 #1 Not rated count is very high
 #2 Maximum number of rating are b/w 2.5 to 3.4
+#Maximum number of 0 ratings are from indian customers
