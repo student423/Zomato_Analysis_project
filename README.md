@@ -11,3 +11,5 @@ zomato maximum records and transaction are from india after that usa and uk
 #4.when rating is b/w 2.5 to 3.4 ------> Average
 #5.when rating is b/w 1.8 to 2.4 ------> Poor
 #6.when rating is zero ------> not rating
+#1 Not rated count is very high
+#2 Maximum number of rating are b/w 2.5 to 3.4
